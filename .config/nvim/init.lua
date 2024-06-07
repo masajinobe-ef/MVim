@@ -1,8 +1,8 @@
--- Core
-require('core.plugins')
-require('core.mappings')
+-- reduce Neovim startup time with plugins
+if vim.loader then
+	vim.loader.enable()
+end
 
--- Plugins
-require('plugins.neotree')
-require('plugins.treesitter')
-require('plugins.lsp')
+
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
