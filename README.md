@@ -1,6 +1,6 @@
-# 💤 LazyVim
+# 💤 MVim
 
-Install the LazyVim
+Install the MVim
 
 Make a backup of your current Neovim files:
 
