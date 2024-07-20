@@ -1,4 +1,9 @@
-# 💤 MVim
+# MVim
+
+<p align="center">
+    <img src="pics/01.png" alt="01"/>
+    <img src="pics/02.png" alt="02"/>
+</p>
 
 Install the MVim
 
