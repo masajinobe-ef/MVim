@@ -1,6 +1,6 @@
 # 💤 LazyVim
 
-Install the LazyVim 
+Install the LazyVim
 
 Make a backup of your current Neovim files:
 
@@ -14,9 +14,11 @@ mv ~/.cache/nvim{,.bak}
 ```
 
 Clone repo:
+
 ```sh
 git clone https://github.com/masajinobe-ef/nvim-config ~/.config/nvim
 ```
+
 Start Neovim!
 
 for Windows:
