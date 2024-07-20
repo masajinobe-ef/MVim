@@ -21,7 +21,7 @@ mv ~/.cache/nvim{,.bak}
 Clone repo:
 
 ```sh
-git clone https://github.com/masajinobe-ef/nvim-config ~/.config/nvim
+git clone https://github.com/masajinobe-ef/MVim ~/.config/nvim
 ```
 
 Start Neovim!
@@ -35,5 +35,5 @@ Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
 # optional but recommended
 Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 
-git clone https://github.com/masajinobe-ef/nvim-config $env:LOCALAPPDATA\nvim
+git clone https://github.com/masajinobe-ef/MVim $env:LOCALAPPDATA\nvim
 ```
